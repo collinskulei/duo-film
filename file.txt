@@ -1,0 +1,33 @@
+
+### Usage
+
+1. Allow camera and microphone permissions when prompted
+2. Switch between photo and video modes using the toggle
+3. Tap the capture button to take photos or start recording
+4. Use pause/resume controls for video recording
+5. Access your gallery via the top-right button
+6. Download or delete media items as needed
+
+## Deployment
+
+This app can be deployed to any static hosting platform:
+
+- [Vercel](https://vercel.com) (Recommended)
+- [Netlify](https://netlify.com)
+- [GitHub Pages](https://pages.github.com)
+- [Firebase Hosting](https://firebase.google.com/docs/hosting)
+
+## Browser Support
+
+- Chrome 60+
+- Firefox 55+
+- Safari 11+
+- Edge 79+
+
+## License
+
+MIT License - see LICENSE file for details
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
