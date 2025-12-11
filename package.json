@@ -1,0 +1,9 @@
+{
+  "name": "duo-film",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "dependencies": "^0.0.1"
+  }
+}
